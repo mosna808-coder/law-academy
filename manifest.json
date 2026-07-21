@@ -1,9 +1,0 @@
-{
-  "name":"Law Academy Quiz",
-  "short_name":"Quiz",
-  "start_url":"./index.html",
-  "display":"standalone",
-  "background_color":"#0f0e17",
-  "theme_color":"#7c6af7",
-  "icons":[]
-}
